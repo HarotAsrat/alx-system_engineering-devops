@@ -1,4 +1,4 @@
-#0X00. shell, basics
+#0x00. Shell, basics
 0-current_working_directory
 1-listit
 2-bring_me_home
